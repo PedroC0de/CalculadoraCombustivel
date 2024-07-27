@@ -129,5 +129,5 @@ To run the application in your local environment, follow the steps below:
 1. **Open the app** on your mobile device.
 2. **Enter the price of alcohol** in the corresponding field.
 3. **Enter the price of gasoline** in the corresponding field.
-4. **Click the "Calculate" button** to see which fuel is more economical.
+4. **Click the "Calcular" button** to see which fuel is more economical.
 5. **View the result**, indicating the best fuel choice for your vehicle.
